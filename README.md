@@ -1,24 +1,5 @@
-````markdown
-<p align="center">
-  <img src="docs/logo.png" alt="PhantomCore Logo" width="200"/>
-</p>
-
-<h1 align="center">PhantomCore</h1>
-<p align="center">
-  Optimized Minecraft 1.21.7 server core with phantom multithreading, Spigot plugin support, and maximum vanilla experience.
-</p>
-
-<p align="center">
-  <a href="https://github.com/superbodik/PhantomCore/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/YourName/PhantomCore/build.yml?style=flat-square" alt="Build Status"/>
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache_2.0-blue?style=flat-square" alt="License"/>
-  </a>
-</p>
 
 ---
-
 ## 🚀 Features
 - **Phantom multithreading** – distributes chunks and game tasks across threads for maximum performance.
 - **Maximum vanilla feel** – preserves the authentic Minecraft experience.

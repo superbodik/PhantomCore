@@ -1,5 +1,3 @@
----
-
 ````markdown
 <p align="center">
   <img src="docs/logo.png" alt="PhantomCore Logo" width="200"/>
